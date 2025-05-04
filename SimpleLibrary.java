@@ -29,6 +29,7 @@ public class SimpleLibrary {
         Scanner scanner = new Scanner(System.in);
         
         while(true) {
+            System.out.println("Hello Students!")
             System.out.println("\n=== SIMPLE LIBRARY ===");
             System.out.println("1. Add Book");
             System.out.println("2. View All Books");
